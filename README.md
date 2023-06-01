@@ -1,4 +1,5 @@
 # Sinew
+This project makes use of "FLUTTER FLOW". Firebase is used for data storage.
 
 ## Before running your project, make sure to run the follwing commands:
 #### flutter pub get
